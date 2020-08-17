@@ -1,0 +1,4 @@
+include ':processor'
+include ':annotation'
+include ':app'
+rootProject.name = "CodeGenerator"
